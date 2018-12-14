@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  display: flex;
+  margin: 5px;
+  padding: 10px;
+  border: 2px solid coral;
+}
+
+/* .DcComics {
+  background-color: blanchedalmond;
+}
+
+.Marvel {
+  background-color: bisque;
+} */
